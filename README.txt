@@ -27,8 +27,3 @@ To run sender.py use the command:
    - <name of input file to be transferred>
 
 NO manual compilations needed.
-
-The programs should be able to run on any undergrad machines, namely:
-- ubuntu1804-002.student.cs.uwaterloo.ca
-- ubuntu1804-004.student.cs.uwaterloo.ca
-- ubuntu1804-006.student.cs.uwaterloo.ca
